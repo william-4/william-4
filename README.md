@@ -1,6 +1,6 @@
-- Hi, I’m @william-4
+- Hi, I’m @william
 - I’m interested in software development
-- I’m currently learning Javascript
+- I’m currently learning the C language and Linux
 - I’m looking to collaborate on suitable projects.
 
 
