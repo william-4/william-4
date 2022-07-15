@@ -1,7 +1,6 @@
-- Hi, I’m @william
-- I’m interested in software development
-- I’m currently learning the C language and Linux
-- I’m looking to collaborate on suitable projects.
+> Hi, I’m @william
+> I’m interested in software engineering
+> I’m currently learning Python programmimg.
 
 
 <!---
