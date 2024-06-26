@@ -1,8 +1,8 @@
-> Hi, I’m @william
+> Hi, I’m @william.
 
-> I’m interested in software engineering
+> I am a software developer
 
-> I’m currently learning Python programmimg.
+> I enjoy building data driven web applications
 
 
 <!---
