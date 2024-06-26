@@ -1,8 +1,6 @@
 > Hi, I’m @william.
 
-> I am a software developer
-
-> I enjoy building data driven web applications
+> I am a software developer building data driven web applications.
 
 
 <!---
